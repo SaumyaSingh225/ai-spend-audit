@@ -25,13 +25,16 @@ export default function AuditForm() {
   // AI TOOLS
 
   const aiTools = [
-    "ChatGPT",
-    "Notion AI",
-    "GitHub Copilot",
-    "Claude",
-    "Gemini",
-    "Midjourney"
-  ];
+  "ChatGPT",
+  "Claude",
+  "Gemini",
+  "GitHub Copilot",
+  "Cursor",
+  "OpenAI API",
+  "Anthropic API",
+  "Windsurf",
+  "v0"
+];
 
   // SAVINGS
 
@@ -228,6 +231,39 @@ export default function AuditForm() {
           </select>
 
         </div>
+        <div>
+
+  <label className="block mb-2 text-gray-300">
+    Primary Use Case
+  </label>
+
+  <select
+    className="w-full px-5 py-4 rounded-xl bg-black border border-gray-700 outline-none"
+  >
+
+    <option>
+      Coding
+    </option>
+
+    <option>
+      Writing
+    </option>
+
+    <option>
+      Research
+    </option>
+
+    <option>
+      Data Analysis
+    </option>
+
+    <option>
+      Mixed Usage
+    </option>
+
+  </select>
+
+</div>
 
         {/* MONTHLY SPEND */}
 
