@@ -39,12 +39,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ### Homepage
 
-![Homepage](./screenshots/home.png)
+![Homepage](./screenshots/home.png.png)
 
 ### form page
 
-![form](./screenshots/form.png)
+![form](./screenshots/form.png.png)
 
 ### Audit Results
 
-![Results](./screenshots/result.png)
+![Results](./screenshots/result.png.png)
