@@ -7,4 +7,4 @@ Understanding React state and API communication.
 Learned Next.js, Tailwind CSS, and deployment.
 
 ## Improvements
-Would like to add database and authentication in future.
+Would like to add database and authentication in future.![alt text]
